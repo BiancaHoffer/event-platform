@@ -4,6 +4,19 @@ module.exports = {
     './src/**/*.tsx'
   ],
   theme: {
+    screens: {
+      'xm': {'max': '480px'}, //superior a 768px
+
+      'sm': {'max': '640px'}, //superior a 768px
+
+      'md': {'max': '768px'}, //superiores a 970px
+
+      'lg': {'max': '1024px'} //superiores a 1200px
+      
+      //'laptop': {'max': '1050px'},
+      // => @media (min-width: 1500px) { ... }
+    },
+
     backgroundImage: {
       blur: 'url(/src/assets/blur-background.png)'
     },

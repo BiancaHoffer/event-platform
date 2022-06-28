@@ -4,23 +4,7 @@ import { Event } from "./pages/Event";
 import { Router } from "./components/Router";
 import { BrowserRouter } from "react-router-dom";
 
-//gql - Graphql: cria sintaxe
-const GET_LESSONS_QUERY = gql`
-  query {
-    lessons {
-      id
-      title
-    }
-  }
-`
-
-interface Lesson {
-  id: string;
-  title: string;
-}
-
 function App() {
-  const { data } = useQuery<{lessons : Lesson[]}>(GET_LESSONS_QUERY)
 
   return (
    <BrowserRouter>

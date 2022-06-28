@@ -1,5 +1,6 @@
 import { Player, DefaultUi, Youtube } from '@vime/react'
 import { CaretRight, DiscordLogo, FileArrowDown, Lightning } from "phosphor-react";
+import { gql, useQuery } from "@apollo/client"
 
 import '@vime/core/themes/default.css'
 import { useGetLessonBySlugQuery } from '../graphql/generated';
@@ -26,7 +27,7 @@ export function Video(props: videoProps){
 
   return(
     <div className="flex-1">
-      <div className="bg-black flex justify-center">
+      <div className="bg-black flex justify-center z-10">
         <div  className="h-full w-full max-w-[1100px] max-h-[60vh] aspect-video">
           <Player>
             <Youtube videoId={data.lesson.videoId} key={data.lesson.videoId}/>
@@ -36,7 +37,7 @@ export function Video(props: videoProps){
       </div>
 
       <div className="p-8 max-w-[1100px] mx-auto">
-        <div className="flex items-start gap-16">
+        <div className="flex items-start gap-16 md:flex-col md:items-center">
           <div className="flex-1">
             <h1 className="text-2xl font-bold">
               {data.lesson.title}
@@ -62,10 +63,11 @@ export function Video(props: videoProps){
                 </span>
               </div>
             </div>
-            )} 
+            )}
+ 
           </div>
 
-          <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-4 md:w-full">
             <a href="#" className="p-4 text-sm bg-green-500 flex items-center rounded font-bold uppercase gap-2 justify-center hover:bg-green-700 transition-colors">
               <DiscordLogo size={24} />
               Comunidade do discord
@@ -78,9 +80,9 @@ export function Video(props: videoProps){
           </div>
         </div>
   
-        <div className="gap-8 mt-20 grid grid-cols-2">
+        <div className="flex gap-8 mt-20 md:flex-col">
           <a href="#" className="bg-gray700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
-            <div className="bg-green-700 h-full p-6 flex items-center">
+            <div className="bg-green-700 p-6 flex items-center">
               <FileArrowDown size={40} />
             </div>
             <div className="py-6 leading-relaxed">
@@ -97,7 +99,7 @@ export function Video(props: videoProps){
           </a>
 
           <a href="#" className="bg-gray700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
-            <div className="bg-green-700 h-full p-6 flex items-center">
+            <div className="bg-green-700 p-6 flex items-center">
               <FileArrowDown size={40} />
             </div>
             <div className="py-6 leading-relaxed">
