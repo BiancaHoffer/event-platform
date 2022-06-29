@@ -1,6 +1,6 @@
 <h1>Plataforma de evento • Ignite Lab - React JS</h1>
 
-<center>Site de eventos com plataforma de vídeo. Criado para fins de estudos.<center> 
+<center>Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos.<center> 
   
 <br>
 
@@ -28,6 +28,6 @@
 </ul>
 <br>
 <h1>🔗 Confira o site</h1>
-
+  
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
 
