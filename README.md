@@ -8,5 +8,13 @@
 ![gif-event](https://user-images.githubusercontent.com/99914904/176507711-04f260c2-5ee9-442f-aef1-998d07e54d24.gif)
 
 <ol>
-  <li>
+  <li>React
+  <li>Typescript
+  <li>Tailwind CSS
+  <li>Headless CMS com graphcms
+  <li>@apollo/client and Graphql
+  <li>Phosphor icon family
+  <li>Lib classnames
+  <li>graphql-code-generator
+  <li>vg2jsx para gerar um componente SVG      
 </ol>
