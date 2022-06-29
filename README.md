@@ -24,4 +24,4 @@
 </ul>
 
 
-
+[https://event-platformm-chi.vercel.app/]
