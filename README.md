@@ -1,2 +1,2 @@
 teste
-![Uploading Design sem nome.gif…]()
+<img source="![Uploading Design sem nome.gif…]()" /:
