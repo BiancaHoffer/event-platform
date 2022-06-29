@@ -16,3 +16,6 @@
   <li> graphql-code-generator
   <li> vg2jsx para gerar um componente SVG      
 </ol>
+
+<h2>Conferir site</h2>
+<a>href=""</a>
