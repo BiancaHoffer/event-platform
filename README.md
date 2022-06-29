@@ -1,6 +1,6 @@
 <h1>Plataforma de evento • Ignite Lab - React JS</h1>
 
-
+Site de eventos com plataforma de vídeo. Criado para fins de estudos. 
 
 <h3>📝 Página de inscrição</h3>
 
@@ -13,6 +13,7 @@
 <h1>📋 Stack</h1>
 <ul>
   <li> React
+  <li> Vite
   <li> Typescript
   <li> Tailwind CSS
   <li> Headless CMS com graphcms
@@ -20,9 +21,10 @@
   <li> Phosphor icon family
   <li> Lib classnames
   <li> graphql-code-generator
-  <li> vg2jsx para gerar um componente SVG      
+  <li> vg2jsx para gerar um componente SVG
+  <li> React Router DOM
 </ul>
-
+<br>
 <h1>🔗 Confira o site</h1>
 
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
