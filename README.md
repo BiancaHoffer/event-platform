@@ -24,4 +24,4 @@
 </ul>
 
 
-[https://event-platformm-chi.vercel.app/]
+[Acesse o site](https://event-platformm-chi.vercel.app/)
