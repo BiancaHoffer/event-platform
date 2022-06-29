@@ -31,3 +31,5 @@
   
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
 
+ Quer entrar em contato comigo? Acesse meu [LinkedIn](www.linkedin.com/in/bianca-macedo-hoffer)
+
