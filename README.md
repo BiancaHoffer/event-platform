@@ -24,5 +24,5 @@
 </ul>
 
 <h2>🔗 Conferir site do projeto</h2>
-event-platformm-biancahoffer.vercel.app
+<a href="event-platformm-biancahoffer.vercel.app"/>
 
