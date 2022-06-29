@@ -1,6 +1,6 @@
 <h1>Plataforma de evento • Ignite Lab - React JS</h1>
 
-Site de eventos com plataforma de vídeo. Criado para fins de estudos. 
+<center>Site de eventos com plataforma de vídeo. Criado para fins de estudos.<center> 
 
 <h3>📝 Página de inscrição</h3>
 
