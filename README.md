@@ -6,13 +6,13 @@
 
 <h1>📌 Stack</h1>
 <ol>
-  <li>React
-  <li>Typescript
-  <li>Tailwind CSS
-  <li>Headless CMS com graphcms
-  <li>@apollo/client and Graphql
-  <li>Phosphor icon family
-  <li>Lib classnames
-  <li>graphql-code-generator
-  <li>vg2jsx para gerar um componente SVG      
+  <li>• React
+  <li>• Typescript
+  <li>• Tailwind CSS
+  <li>• Headless CMS com graphcms
+  <li>• @apollo/client and Graphql
+  <li>• Phosphor icon family
+  <li>• Lib classnames
+  <li>• graphql-code-generator
+  <li>• vg2jsx para gerar um componente SVG      
 </ol>
