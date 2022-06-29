@@ -25,4 +25,4 @@
 
 <h1>🔗 Confira o site</h1>
 
-<p/>Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).</p>
+<p>Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).</p>
