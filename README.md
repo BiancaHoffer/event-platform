@@ -23,5 +23,6 @@
   <li> vg2jsx para gerar um componente SVG      
 </ul>
 
-<h2>🔗 Conferir site</h2>
+<h2>🔗 Conferir site do projeto</h2>
+event-platformm-biancahoffer.vercel.app
 
