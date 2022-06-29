@@ -31,5 +31,5 @@
   
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
   
- Quer entrar em contato comigo Me chame no [LinkedIn](www.linkedin.com/in/bianca-macedo-hoffer).
+ Quer entrar em contato comigo? Me chame no [LinkedIn](www.linkedin.com/in/bianca-macedo-hoffer).
 
