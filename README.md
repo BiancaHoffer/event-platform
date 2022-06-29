@@ -24,5 +24,5 @@
 </ul>
 
 <h2>🔗 Conferir site do projeto</h2>
-<a href="event-platformm-biancahoffer.vercel.app"/>
-
+<a href=/>
+<a href=“event-platformm-biancahoffer.vercel.app“>Flex Grid</a>
