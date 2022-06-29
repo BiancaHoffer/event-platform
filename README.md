@@ -1,4 +1,4 @@
-<h1>Plataforma de evento ⚫ Ignite Lab - React JS</h1>
+<h1>Plataforma de evento • Ignite Lab - React JS</h1>
 
 <h2>Páginas responsivas</h2>
 
