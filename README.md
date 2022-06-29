@@ -27,6 +27,4 @@
 
 <p>Aqui você pode ter <a href=“event-platformm-biancahoffer.vercel.app“>acesso ao site</a>.</p>
 
-<p>Aqui você pode conferir o <a href=“https://www.figma.com/community/file/1120711251998877938“>layout do projet</a>.</p>
-
 
