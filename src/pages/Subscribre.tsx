@@ -27,9 +27,7 @@ export function Subscribre(){
 
     navigate('/event')
   }
-
   
-
   return(
     <div className="w-full min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
       <div className="w-full max-w-[1100px] flex items-center justify-between mt-20 mx-auto px-5 lg:flex-col">
@@ -43,10 +41,7 @@ export function Subscribre(){
         <p className='mt-4 text-gray-200 leading-relaxed text-justify lg:text-center'>
           Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar as melhores oportunidades do mercado.
         </p>
-        
-        
         </div>
-        
         <div className='p-8 bg-gray-700 border border-gray-500 z-10 roundeds sm:w-full sm:text-center'>
           <strong className='text-2xl mb-6 block xm:text-xl'>Inscreva-se gratuitamente</strong>
 
