@@ -14,24 +14,23 @@
 
 <h3>✨ Funcionalidades</h3>
 
-✔️ Cadastro de nome e email;
-✔️ Aulas vindo da integração com graphcms;
-✔️ Deploy na Vercel;\
+
+✔️ Cadastro de nome e email;<br>
+✔️ Aulas vindo da integração com graphcms;<br>
+✔️ Deploy na Vercel.<br>
 
 <h3>📋 Stack</h3>
-<ul>
-  <li> React
-  <li> Vite
-  <li> Typescript
-  <li> Tailwind CSS
-  <li> Headless CMS com graphcms
-  <li> @apollo/client and Graphql
-  <li> Phosphor icon family
-  <li> Lib classnames
-  <li> graphql-code-generator
-  <li> vg2jsx para gerar um componente SVG
-  <li> React Router DOM
-</ul>
+✔️ React; <br>
+✔️ Vite; <br>
+✔️ Typescript; <br>
+✔️ Tailwind CSS; <br>
+✔️ Headless CMS com graphcms; <br>
+✔️ @apollo/client and Graphql; <br>
+✔️ Phosphor icon family; <br>
+✔️ Lib classnames; <br>
+✔️ graphql-code-generator; <br>
+✔️ vg2jsx para gerar um componente SVG; <br>
+✔️ React Router DOM; <br>
 <br>
 <h3>🔗 Confira o site</h3>
   
