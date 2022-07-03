@@ -1,21 +1,12 @@
 # EVENT PLATFORM 
 
-:Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos:
- 
- <center>
+Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos
  
 ![1-400](https://user-images.githubusercontent.com/99914904/177060332-a4d28e9e-dbb7-4eb8-aca9-4ffa7098eee0.png) ![3-400](https://user-images.githubusercontent.com/99914904/177060381-e7d54084-b070-43a2-b516-52b27fb4b4e3.png)
 
-</center>
-
 <br>
-### 📝 Página de inscrição
 
-![gib-subscribe](https://user-images.githubusercontent.com/99914904/176507662-911a77f9-0259-4907-b435-8e3d613d6a9b.gif)
- 
-### 🎉 Página do Evento
-
-![gif-event](https://user-images.githubusercontent.com/99914904/176507711-04f260c2-5ee9-442f-aef1-998d07e54d24.gif)  ![3-400](https://user-images.githubusercontent.com/99914904/177060381-e7d54084-b070-43a2-b516-52b27fb4b4e3.png)
+![4-400](https://user-images.githubusercontent.com/99914904/177060513-ac25fe43-92fd-4a43-baef-20cf7fca6d67.png) ![6-400](https://user-images.githubusercontent.com/99914904/177060514-bc944ebc-d788-4704-a229-261716a5b735.png)
 
 ### ✨ Funcionalidades
 
