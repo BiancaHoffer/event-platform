@@ -1,9 +1,8 @@
-<h1>Plataforma de evento • Ignite Lab - React JS</h1>
+<center> <h1> EVENT PLATFORM </h1> </center>
 
 <center>Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos.<center> 
   
 <br>
-
 <h3>📝 Página de inscrição</h3>
 
 ![gib-subscribe](https://user-images.githubusercontent.com/99914904/176507662-911a77f9-0259-4907-b435-8e3d613d6a9b.gif)
