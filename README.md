@@ -33,6 +33,10 @@ Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudo
 
 <hr>
 
+### 🏁 Start 
+
+"start"
+
 ### 🔗 Confira o site
   
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
