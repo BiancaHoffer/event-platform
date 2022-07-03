@@ -36,7 +36,8 @@
  
  ### 🏁 Start 
 
- `# Clonar repositório
+ `
+ # Clonar repositório
  $ git clone https://github.com/BiancaHoffer/event-platform.git
  `
  
