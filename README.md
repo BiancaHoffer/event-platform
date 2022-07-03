@@ -35,16 +35,16 @@
  ### 🏁 Start 
 
  ```
- #clonar repositório
+ # clonar repositório
  $ git clone https://github.com/BiancaHoffer/event-platform.git
  
- #acessar pasta
+ # acessar pasta
  $ cd event-platform
  
- #baixar dependências
+ # baixar dependências
  $ npm i
  
- #iniciar projeto
+ # iniciar projeto
  $ npm run dev
 ```
  
