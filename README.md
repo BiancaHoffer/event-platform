@@ -27,7 +27,7 @@
   <li> React Router DOM
 </ul>
 <br>
-<h1>🔗 Confira o site</h1>
+<h3>🔗 Confira o site</h3>
   
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
   
