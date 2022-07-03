@@ -8,6 +8,8 @@
 ![4-400](https://user-images.githubusercontent.com/99914904/177060513-ac25fe43-92fd-4a43-baef-20cf7fca6d67.png) ![6-400](https://user-images.githubusercontent.com/99914904/177060514-bc944ebc-d788-4704-a229-261716a5b735.png)
  
 </div>
+ 
+ <hr>
 
 ### ✨ Funcionalidades
 
