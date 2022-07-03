@@ -33,12 +33,12 @@
 ✔️ vg2jsx para gerar um componente SVG; <br>
 ✔️ React Router DOM; <br>
 <br>
+ 
+ ### 🏁 Start 
 
+ `qweqw`
+ 
 <hr>
-
-### 🏁 Start 
-
-"start"
 
 ### 🔗 Confira o site
   
