@@ -31,6 +31,8 @@
 ✔️ React Router DOM; <br>
 <br>
 
+<hr>
+
 ### 🔗 Confira o site
   
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
