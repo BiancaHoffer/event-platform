@@ -11,8 +11,6 @@
  
 </div>
  
- <hr>
-
 ### ✨ Funcionalidades
 
 
@@ -37,8 +35,13 @@
  ### 🏁 Start 
 
  `
- # Clonar repositório
  $ git clone https://github.com/BiancaHoffer/event-platform.git
+ 
+ $ cid event-platform
+ 
+ $ npm i
+ 
+ $ npm run dev
  `
  
 <hr>
