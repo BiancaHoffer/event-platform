@@ -11,7 +11,7 @@
  
 ### 🎉 Página do Evento
 
-![gif-event](https://user-images.githubusercontent.com/99914904/176507711-04f260c2-5ee9-442f-aef1-998d07e54d24.gif) 
+![gif-event](https://user-images.githubusercontent.com/99914904/176507711-04f260c2-5ee9-442f-aef1-998d07e54d24.gif)  ![3-400](https://user-images.githubusercontent.com/99914904/177060381-e7d54084-b070-43a2-b516-52b27fb4b4e3.png)
 
 ### ✨ Funcionalidades
 
