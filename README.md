@@ -14,6 +14,10 @@
 
 <h3>✨ Funcionalidades</h3>
 
+✔️ Cadastro de nome e email;
+✔️ Aulas vindo da integração com graphcms;
+✔️ Deploy na Vercel;\
+
 <h3>📋 Stack</h3>
 <ul>
   <li> React
