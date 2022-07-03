@@ -2,7 +2,7 @@
 
 <center>Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos.<center> 
   
-<img src="![1](https://user-images.githubusercontent.com/99914904/177059940-0c8e11d9-5cb4-4956-a79d-3584292b8754.png)" width="300" height="300" > 
+<img src="![1](https://user-images.githubusercontent.com/99914904/177060239-279f99b6-effd-4f8c-ac0c-dd0e78625bc0.png)" height="300" width="300" > 
 
 <br>
 ### 📝 Página de inscrição
