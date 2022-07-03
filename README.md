@@ -1,5 +1,7 @@
 
 
+<h1 align="center">EVENT PLATFORM</h1>
+
 <h3 align="center">Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos.</h3>
  
 <div align="center">
@@ -28,7 +30,7 @@
 ✔️ graphql-code-generator; <br>
 ✔️ vg2jsx para gerar um componente SVG; <br>
 ✔️ React Router DOM; <br>
-<br>
+
  
  ### 🏁 Start 
 
