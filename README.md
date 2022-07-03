@@ -1,6 +1,6 @@
 # EVENT PLATFORM 
 
-<center>Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos.<center> 
+:Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos:
  
  <center>
  
