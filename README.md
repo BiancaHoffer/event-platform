@@ -1,4 +1,4 @@
-<center>: <h1> EVENT PLATFORM </h1> :</center>
+<h1> EVENT PLATFORM </h1>:
 
 <center>Site de eventos com plataforma de vídeo, responsivo. Criado para fins de estudos.<center> 
   
