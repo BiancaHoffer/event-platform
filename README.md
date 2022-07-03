@@ -31,6 +31,7 @@
 ✔️ vg2jsx para gerar um componente SVG; <br>
 ✔️ React Router DOM; <br>
 <br>
+
 ### 🔗 Confira o site</h3>
   
 Aqui você tem [acesse ao site](https://event-platformm-chi.vercel.app/).
