@@ -35,7 +35,7 @@
  ### 🏁 Start 
 
  ```
- # clonar repositório
+ // clonar repositório
  $ git clone https://github.com/BiancaHoffer/event-platform.git
  
  # acessar pasta
